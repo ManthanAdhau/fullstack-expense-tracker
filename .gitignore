@@ -8,3 +8,4 @@ expense-tracker-backend/.env
 expense-tracker-frontend/node_modules/
 expense-tracker-frontend/.next/
 expense-tracker-frontend/.env*
+git add .
