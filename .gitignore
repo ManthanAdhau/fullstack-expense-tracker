@@ -1,0 +1,10 @@
+# Python
+expense-tracker-backend/venv/
+expense-tracker-backend/__pycache__/
+expense-tracker-backend/*.db
+expense-tracker-backend/.env
+
+# Node
+expense-tracker-frontend/node_modules/
+expense-tracker-frontend/.next/
+expense-tracker-frontend/.env*
